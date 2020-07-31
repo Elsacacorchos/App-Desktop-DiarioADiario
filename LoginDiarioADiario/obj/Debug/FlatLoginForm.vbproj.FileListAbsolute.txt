@@ -1,0 +1,34 @@
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\bin\Debug\FlatLoginForm.exe.config
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\bin\Debug\FlatLoginForm.exe
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\bin\Debug\FlatLoginForm.pdb
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\bin\Debug\FlatLoginForm.xml
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.vbprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.FormLogin.resources
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.Resources.resources
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.vbproj.GenerateResource.Cache
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.exe
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.xml
+D:\RJ Code Advance\Test Projects\2019\Visual Basic\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.pdb
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\bin\Debug\FlatLoginForm.exe.config
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.exe
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.xml
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.pdb
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.vbprojResolveAssemblyReference.cache
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.Form1.resources
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.Resources.resources
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\obj\Debug\FlatLoginForm.vbproj.GenerateResource.Cache
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\bin\Debug\FlatLoginForm.exe
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\bin\Debug\FlatLoginForm.pdb
+D:\RJ Code Advance\Source Code VB\2019\FlatLoginForm\FlatLoginForm\bin\Debug\FlatLoginForm.xml
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\bin\Debug\FlatLoginForm.exe.config
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\bin\Debug\FlatLoginForm.exe
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\bin\Debug\FlatLoginForm.pdb
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\bin\Debug\FlatLoginForm.xml
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\obj\Debug\FlatLoginForm.vbprojAssemblyReference.cache
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\obj\Debug\FlatLoginForm.Form1.resources
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\obj\Debug\FlatLoginForm.Resources.resources
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\obj\Debug\FlatLoginForm.vbproj.GenerateResource.cache
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\obj\Debug\FlatLoginForm.vbproj.CoreCompileInputs.cache
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\obj\Debug\FlatLoginForm.exe
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\obj\Debug\FlatLoginForm.xml
+C:\Users\chapi\Downloads\Login-Plano-Moderno-Transparente-WinForm-VB-master\Login-Plano-Moderno-Transparente-WinForm-VB-master\FlatLoginForm\obj\Debug\FlatLoginForm.pdb

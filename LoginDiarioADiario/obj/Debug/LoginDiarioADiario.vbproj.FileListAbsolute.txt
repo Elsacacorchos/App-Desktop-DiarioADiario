@@ -1,0 +1,5 @@
+C:\Users\chapi\OneDrive\Escritorio\DiarioADiario\LoginDiarioADiario\FlatLoginForm\obj\Debug\LoginDiarioADiario.vbprojAssemblyReference.cache
+C:\Users\chapi\OneDrive\Escritorio\DiarioADiario\LoginDiarioADiario\FlatLoginForm\obj\Debug\LoginDiarioADiario.FormInicioSesion.resources
+C:\Users\chapi\OneDrive\Escritorio\DiarioADiario\LoginDiarioADiario\FlatLoginForm\obj\Debug\LoginDiarioADiario.Resources.resources
+C:\Users\chapi\OneDrive\Escritorio\DiarioADiario\LoginDiarioADiario\FlatLoginForm\obj\Debug\LoginDiarioADiario.vbproj.GenerateResource.cache
+C:\Users\chapi\OneDrive\Escritorio\DiarioADiario\LoginDiarioADiario\FlatLoginForm\obj\Debug\LoginDiarioADiario.vbproj.CoreCompileInputs.cache
